@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+    
+}
+    
+
+body {
+    font-size: 100%;
+    background:  linear-gradient(68.15deg, #0e060b 16.62%, rgb(70, 3, 90) 85.61%);
+    font-family: 'Sarala', sans-serif;
+    color: #ECD6C4;
+    
+
+}
+
+.container {
+    min-height: 100vh;
+    overflow: auto;
+    
+}
+
+.botoesLink {
+   font-family: 'Sarala', sans-serif;
+    color: #0c055e;
+    font-weight: 400;
+    font-size: 18px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 20px;
+    background-color: #ECD6C4;  
+}
+
+.botoesLink:hover {
+    background-color: rgba(236, 214, 196, 0.53 );
+}
+
+.logoAce {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+    
+}
+
+.cabecalho_um {
+    display: flex;
+    flex-direction: row;
+}
+
+.primeiro_video {
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 20px;
+    
+}
+
+.paragrafo_prin_um {
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+    padding: 32px;
+    border-top: 3px double #FFF2E7;
+}
+
+.paragrafo_prin_umm {
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+    padding: 32px;
+    border-top: 3px double #FFF2E7;
+}
+
+.segundo_video {
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 20px;
+}
+
+.paragrafo_princ_dois {
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+    padding: 32px;
+    border-top: 3px double #FFF2E7;
+
+}
+
+.paragrafo_prin_tres {
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+    padding: 32px;
+    border-top: 3px double #FFF2E7;
+}
+
+.terceiro_video {
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 20px;
+}
+
+.paragrafo_prin_quatro {
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+    padding: 32px;
+    border-top: 3px double #FFF2E7;
+}
+
+.quarto_video {
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 20px;
+}
+
+.quinto_video {
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 20px;
+}
+
+.paragrafo_prin_quinto {
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+    padding: 32px;
+    border-top: 3px double #FFF2E7;
+}
